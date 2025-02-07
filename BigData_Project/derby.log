@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 30 14:39:13 IST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0194-b678-bc72-00001d744740 
+on database directory /home/sunbeam/bigdata/metastore_db with class loader sun.misc.Launcher$AppClassLoader@1d81eb93 
+Loaded from file:/home/sunbeam/.local/lib/python3.10/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_432-8u432-ga~us1-0ubuntu2~22.04-ga
+user.dir=/home/sunbeam/Desktop/BigData_Project
+os.name=Linux
+os.arch=amd64
+os.version=6.8.0-52-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
